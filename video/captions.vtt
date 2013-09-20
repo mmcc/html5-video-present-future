@@ -1,0 +1,18 @@
+WEBVTT
+
+00:00.001 --> 00:04.000
+Awwwww yeah.
+
+00:04.001 --> 00:06.000
+caption caption caption
+
+00:06.001 --> 00:12.000
+You're not limited to one line either
+- you can span multiple lines
+- just make sure none of those lines are empty
+
+00:12.001 --> 00:16.000
+Usually you don't want timestamps that overlap
+
+00:15.000 --> 00:19.000
+But it's ok if they do.
